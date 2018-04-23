@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树重修", "二叉树重修\二叉树重修.vcproj", "{D29D4661-0015-4071-9786-D27ECC50900D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29D4661-0015-4071-9786-D27ECC50900D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D29D4661-0015-4071-9786-D27ECC50900D}.Debug|Win32.Build.0 = Debug|Win32
+		{D29D4661-0015-4071-9786-D27ECC50900D}.Release|Win32.ActiveCfg = Release|Win32
+		{D29D4661-0015-4071-9786-D27ECC50900D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
